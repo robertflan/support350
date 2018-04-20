@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: Googlebot
+Disallow: /dev/
+Disallow: /billing/
+
+Allow: 
+Sitemap: https://www.ehorizon.ae/sitemap.xml
