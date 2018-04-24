@@ -143,7 +143,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Banner Part-->
             <div class="banner-container" id="home-container">
                 <h1 class="banner-text wow bounceInDown "  data-wow-delay="200ms" data-wow-duration="1s">
-                    <span>Welcome to <strong>support 305</strong></span>
+                    <span>Welcome to <img src="images/Support305-logo.png"></span>
                     Are you frustrated and tired of the  lack of response and care from your current IT Company?
                 </h1>
 
@@ -3108,7 +3108,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         </svg> 
                         <div class="wow fadeIn service-box-inner">
-                            <i class="web-icon"><img src="images/mobile-application-icon.png" alt="Mobile Apps" title="Mobile Apps"></i>
+                            <i class="web-icon"><img src="images/cloud.png" alt="Mobile Apps" title="Mobile Apps"></i>
                             <h2>Cloud IT Solutions</h2>
                             <ul>
                                  <li><a href="#">Hosted Exchange Email</a></li>
@@ -3133,7 +3133,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         </svg> 
                         <div class="wow fadeIn service-box-inner">
-                            <i class="web-icon"><img src="images/digital-marketing-icon.png" alt="Digital Marketing" title="Digital Marketing"></i>
+                            <i class="web-icon"><img src="images/business-gear.png" alt="Digital Marketing" title="Digital Marketing"></i>
                             <h2>Business IT Support</h2>
                             <ul>
                                 <li><a href="#">Hourly, Pay As You Go</a></li>
@@ -3157,7 +3157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         </svg> 
                         <div class="wow fadeIn service-box-inner">
-                            <i class="web-icon"><img src="images/dedicated-hiring-icon.png" alt="Dedicated Hiring" title="Dedicated Hiring"></i   <h2>Cabling / Connectivity</h2>
+                            <i class="web-icon"><img src="images/connect-icon.png" alt="Dedicated Hiring" title="Dedicated Hiring"></i   <h2>Cabling / Connectivity</h2>
                             <ul>
                                 <li><a href="#">CAT5e & CAT6 Cabling</a></li>
                                 <li><a href="#">CCTV / IP Surveillance</a></li>
@@ -3180,7 +3180,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--Process part-->
             <div class="process-container">
                 <div class="inner-container">
-                    <h3 class="page-heading01 wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1s"><img src="images/process-icon.png" alt="Process" title="Process">
+                    <h3 class="page-heading01 wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1s"><img src="images/cloud-service.png" alt="Process" title="Process" width="150">
                         Cloud Services
                         <small>Are you a small to midsize business based in South Florida then we are here to help you!</small>
                     </h3>   
@@ -3219,7 +3219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         <div class="process-box-inner wow fadeIn">
                             <img src="images/solution-icon.png" alt="Solution" title="Solution">
-                            <h4><span>Cloud Solutions</h4>
+                            <h4>Cloud Solutions</h4>
                             <p>Support305 cloud environment offers an affordable hosting experience combining HAAS and SAAS for your business. </p>
                             <!--Arrow-->
                             <span class="arrow02"></span>
@@ -3782,7 +3782,7 @@ Footer Newsletter Part-->
                             <li><a href="index.html#who-are-we">Product&services</a></li>
                             <li><a href="javascript:void(0);">Cloud</a></li>
                             <li><a href="portfolio.html">Backup Services</a></li>
-                            <li><a href="blog/index.html">how we work</a></li><li><a href="index.html#contact-us">our Clients</a></li>
+                            <li><a href="blog/index.html">How we work</a></li><li><a href="index.html#contact-us">Our Clients</a></li>
                         </ul>
                         <span class="copyright-text wow fadeInRight" data-wow-delay="900ms">© Copyright 2018 | All rights reserved.</span>
                         <div class="clearfix"></div>
