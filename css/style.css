@@ -692,7 +692,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dedede', end
 .fixed-menu .small-logo {
 	display: block;
 	margin: 5px 10px;
-	width: 60px;
+	width: 260px;
 }
 .fixed-menu .rechus-box {
 	background: none;
@@ -1267,7 +1267,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 	text-align: center;
 	position: relative;
 	float: left;
-	color: #03080d;
+	color: #005ca3;
 }
 .service-box-inner {
 	padding: 52px 20px 35px 27px;
@@ -1377,7 +1377,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 }
 .process-box h4 {
 	font-size: 22px;
-	color: #00a1e9;
+	color: #005ca3;
 	text-transform: uppercase;
 	margin: 0 0 6px 0;
 }
@@ -1503,6 +1503,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 	line-height: 29px;
 	font-family: 'ProximaNova-Light';
 	text-align: left;
+}
+.who-are-we-text h4{
+	color: #005ca3;
 }
 .who-are-we-text strong {
 	font-weight: normal;
@@ -2301,7 +2304,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 }
 .footer-mid-link-box h6 {
 	font-size: 18px;
-	color: #1bacec;
+	color: #005ca3;
 	text-transform: uppercase;
 	margin: 0 0 4px 0;
 	padding: 0;
