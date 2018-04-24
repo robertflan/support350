@@ -111,7 +111,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="javascript:void(0);" class="brand">
                     <strong>Support305</strong>
                     <img src="images/e-horizon.png" alt="eHorizon" title="eHorizon" class="big-logo">
-                    <img src="images/ehorizon-icon.png" alt="eHorizon" title="eHorizon" class="small-logo">
+                    <img src="images/support-logo" alt="eHorizon" title="eHorizon" class="small-logo">
                 </a>
 
                 
@@ -3157,7 +3157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         </svg> 
                         <div class="wow fadeIn service-box-inner">
-                            <i class="web-icon"><img src="images/connect-icon.png" alt="Dedicated Hiring" title="Dedicated Hiring"></i   <h2>Cabling / Connectivity</h2>
+                            <i class="web-icon"><img src="images/connect-icon.png" alt="Dedicated Hiring" title="Dedicated Hiring"></i>   <h2>Cabling / Connectivity</h2>
                             <ul>
                                 <li><a href="#">CAT5e & CAT6 Cabling</a></li>
                                 <li><a href="#">CCTV / IP Surveillance</a></li>
