@@ -2049,13 +2049,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 
 /*********************Footer***************/
 .footer-part {
-	background: url(../images/footer-bg.jpg) no-repeat center top;
 	width: 100%;
 	position: absolute;
 	left: 0;
 	top: 6910px;
 	margin: 0;
 	padding: 313px 0 0 0;
+	overflow: hidden;
+	font-family: "ProximaNova-Regular";
+	text-shadow: 2px 2px 2px #fff;
+	background-position-y: 45%;
+}
+.footer-part:before {
+	background: url(../images/footer-bg.jpg) no-repeat center top;
+	opacity: 0.5;
+	content: ' ';
+    display: block;
+    width: 100%;
+	position: absolute;
+	left: 0;
+	top: 63px;
+	margin: 0;
+	padding: 430px 0 0 0;
 	overflow: hidden;
 	font-family: "ProximaNova-Regular";
 	text-shadow: 2px 2px 2px #fff;
