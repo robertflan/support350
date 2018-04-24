@@ -18,7 +18,7 @@
     <meta name="geo.position" content="25.180930;55.262697" />
     <meta name="ICBM" content="25.180930;55.262697" />
         <link rel="canonical" href="index.html" /> 
-        <link rel="icon" href="favicon.png" type="image/x-icon" />
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
         <!--styles -->
         <link href="css/normalize.css" rel="stylesheet">
@@ -3301,7 +3301,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box01 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>Proven Track Record</h4>
                            Serving the South Florida Business community for over 10 years working with several different industries. We have never lost a customer and we do not intend to start now.
@@ -3311,7 +3311,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box02 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>Business Experience & Solutions</h4>
                             Have your very own out sourced CTO and information technology support team. 
@@ -3321,7 +3321,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box03 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>Proactive Staff</h4>
                             Due to our wealth of remote monitoring tools, we usually are working on your issue before you call. 
@@ -3331,7 +3331,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box04 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>Customized Solutions</h4>
                            Using the information we have gathered with our meeting we create a custom built service plan that will provide your business with a solid IT platform.
@@ -3341,7 +3341,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box05 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>One Stop Shop</h4>
                             We provide a one stop shop, where we provide day to day support and also provide future planning of your IT needs.
@@ -3351,7 +3351,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!--ABOUT US Box-->
                     <div class="who-are-we-box who-are-we-box06 wow fadeInLeft">
-                        <img src="images/who-are-we-icon02.png" alt="Ehorizon" title="Ehorizon">
+                        <img src="images/hand-right.png" alt="Ehorizon" title="Ehorizon">
                         <div class="who-are-we-text">
                             <h4>Making Your IT a Business Asset</h4>
                             Allow your IT team to make you money and not lose you money.  We have a large support staff locally which provides our customers with 24/7 live support.
