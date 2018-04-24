@@ -1489,8 +1489,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 }
 .who-are-we-box img {
 	float: left;
-	margin: 2px 0 0 -5px;
-	width: 110px;
+	margin: -6px 0 0 -9px;
+    width: 70px;
 }
 /*.who-are-we-box.who-are-we-box01 img{margin-top:-15px;}*/
 .who-are-we-text {
