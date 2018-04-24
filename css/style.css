@@ -2056,6 +2056,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', end
 	overflow: hidden;
 	font-family: "ProximaNova-Regular";
 	text-shadow: 2px 2px 2px #fff;
+	background-position-y: 45%;
 }
 .footer-part .inner-container {
 	max-width: 1280px;
